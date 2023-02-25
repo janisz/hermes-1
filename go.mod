@@ -16,7 +16,7 @@ require (
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/valyala/bytebufferpool v1.0.0
 	github.com/valyala/fasthttp v1.3.0
-	golang.org/x/crypto v0.0.0-20190424203555-c05e17bb3b2d // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v9 v9.28.0
 )
